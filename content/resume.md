@@ -77,6 +77,15 @@ _Junior Developer_
 - Developed a website with e-commerce capabilities using HTML, CSS, and JavaScript.
 - Involved in the development of a database in Microsoft SQL with an Intranet web GUI input form.
 
+**Global Key LLC, Clifton, NJ** February 2013 to April 2021
+
+_Medical Equipment Supervisor_
+
+- Managed parts and equipment inventory database.
+- Supervised small team to pack and ship medical equipment internationally.
+- Worked closely with other departments, such as logistics, sales, accounting, and warehouse to resolve issues quickly.
+- Researched equipment documentation and created a library of most used service manuals.
+
 ---
 
 **CERTIFICATES**
