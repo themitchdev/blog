@@ -1,0 +1,26 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'MitchellCodes'
+theme = 'PaperMod'
+enableEmoji = true
+enableInlineShortcodes = true
+
+[params.homeInfoParams]
+title = 'Hi there! 👋'
+Content = "My name is Mitchell and I am absolutely thrilled to be starting my career as a software engineer. As an almost recent graduate (March 2023) with a degree in Computer Science, I have spent the past few years learning about various programming languages and technologies, and completing projects that have allowed me to develop my skills and knowledge in the field. But now, the real fun begins! I am eager to apply my skills to real-world problems and be a part of a team that is using technology to make a positive impact. The world of software engineering is constantly evolving and there is always something new to learn and discover, and I am excited to be a part of it. I'm based in Miami, which means I can code and tan at the same time (talk about efficiency). In all seriousness though, I am surrounded by a vibrant and diverse community of tech professionals and I can't wait to be a part of it. I am confident that my education, passion, and enthusiasm will serve me well as I begin my career as a software engineer, and I can't wait to see what the future holds."
+
+[params]
+defaultTheme = 'auto'
+disableThemeToggle = 'true'
+
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects/"
+weight = 10
+
+[[menu.main]]
+identifier = "resume"
+name = "Resume"
+url = "/resume/"
+weight = 20
