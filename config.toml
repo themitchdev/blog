@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'www.mitchellcodes.com'
 languageCode = 'en-us'
 title = 'MitchellCodes'
 theme = 'PaperMod'
@@ -26,8 +26,4 @@ url = "/resume/"
 weight = 30
 
 
-[[menu.main]]
-identifier = "home"
-name = "Home"
-url = "/"
-weight = 10
+
