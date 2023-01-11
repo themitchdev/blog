@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Created by https://www.toptal.com/developers/gitignore/api/hugo,visualstudiocode
 
 # Edit at https://www.toptal.com/developers/gitignore?templates=hugo,visualstudiocode
@@ -8,26 +9,46 @@
 
 /public/
 /resources/\_gen/
+=======
+# Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,hugo
+# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,hugo
+
+### Hugo ###
+# Generated files by hugo
+/public/
+/resources/_gen/
+>>>>>>> 2e2d769 (message)
 /assets/jsconfig.json
 hugo_stats.json
 
 # Executable may be added to repository
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2e2d769 (message)
 hugo.exe
 hugo.darwin
 hugo.linux
 
 # Temporary lock file while building
+<<<<<<< HEAD
 
 /.hugo_build.lock
 
 ### VisualStudioCode
 
 .vscode/_
+=======
+/.hugo_build.lock
+
+### VisualStudioCode ###
+.vscode/*
+>>>>>>> 2e2d769 (message)
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+<<<<<<< HEAD
 !.vscode/_.code-snippets
 
 # Local History for Visual Studio Code
@@ -46,3 +67,19 @@ hugo.linux
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/hugo,visualstudiocode
+=======
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+
+# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,hugo
+>>>>>>> 2e2d769 (message)
