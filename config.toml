@@ -25,14 +25,8 @@ name = "Resume"
 url = "/resume/"
 weight = 30
 
-<<<<<<< HEAD
-
-
-=======
-[assets]
-disableHLJS = true
-# favicon = "/assets/favicon.ico"
-# favicon16x16 = "/assets/favicon-16x16.png"
-# favicon32x32 = "/assets/favicon-32x32.png"
-# apple_touch_icon = "/assets/apple-touch-icon.png"
->>>>>>> 2e2d769 (message)
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 10
