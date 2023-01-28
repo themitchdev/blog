@@ -1,6 +1,6 @@
 baseURL = 'https://www.mitchellcodes.com'
 languageCode = 'en-us'
-title = 'MitchellCodes'
+title = 'mitchellCodes'
 theme = 'PaperMod'
 enableEmoji = true
 enableInlineShortcodes = true
